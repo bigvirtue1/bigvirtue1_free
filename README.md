@@ -63,30 +63,6 @@ Built for people who believe privacy is a right, not a product.
 
 ---
 
-## 🚀 Quick Start
-
-**한글 리눅스 / Korean Linux:**
-```bash
-cd ~/다운로드
-chmod +x install.sh
-./install.sh
-```
-
-**영어 리눅스 / English Linux:**
-```bash
-cd ~/Downloads
-chmod +x install.sh
-./install.sh
-```
-
-**직접 실행 / Direct run:**
-```bash
-chmod +x bigvirtue1_free
-./bigvirtue1_free
-```
-
----
-
 ## 📁 File Structure
 After first run, these directories are created automatically next to the binary:
 ```
